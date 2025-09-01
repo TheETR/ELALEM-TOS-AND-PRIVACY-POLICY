@@ -1,0 +1,2 @@
+# ELALEM-TOS-AND-PRIVACY-POLICY
+This repo is about TOS and PRIVACY POLICY updates.
