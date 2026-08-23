@@ -356,8 +356,7 @@ If you contact us by email, include your Discord username or user ID so we can
 find the right account. If you already have a deletion reference, include that
 too.
 
-ELALEM will never ask you to send passwords, login tokens, payment details or
-similar secrets. If a message claiming to be from ELALEM asks for those, do not
-send them.
+ELALEM will never ask you to send API keys or login tokens by email. If a
+message claiming to be from ELALEM asks for one, do not send it.
 
 Related: [Terms of Service](TERMS_OF_SERVICE.md)
